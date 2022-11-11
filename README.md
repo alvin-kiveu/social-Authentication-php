@@ -1,3 +1,3 @@
 # login-with-github-php
 
-<h2 style="text-align:center; color:green;">GITHUB LOGIN WITH PHP</h2>
+<h2 style="text-align:center; color:green;">social Authentication  in php</h2>

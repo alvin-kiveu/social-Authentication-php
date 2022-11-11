@@ -143,17 +143,18 @@
   <div class="container">
     <form action="/action_page.php">
       <div class="row">
-        <h2 style="text-align:center">GITHUB LOGIN WITH PHP</h2>
+        <h2 style="text-align:center"> Social Authentication WITH PHP</h2>
         <div class="col">
+          <a href="#" class="google btn"><i class="fa fa-google fa-fw">
+            </i> Login with Google+
+          </a>
           <a href="https://github.com/login/oauth/authorize?client_id=e28bd2788eb2f55aabde" class="gh btn">
             <i class="fa fa-github fa-fw"></i> Login with Github</a>
           </a>
-          <!-- <a href="#" class="fb btn">
+          <a href="#" class="fb btn">
             <i class="fa fa-facebook fa-fw"></i> Login with Facebook
           </a>
-          <a href="#" class="google btn"><i class="fa fa-google fa-fw">
-            </i> Login with Google+
-          </a> -->
+
         </div>
 
       </div>

@@ -7,10 +7,10 @@
 
 //GITHUB CONFIGS
 $configs = array(
-  'client_id' => 'e28bd2788eb2f55aabde',
-  'client_secret' => 'b8a423cfe5673a23bdfa39cb35f8c590986bca11',
-  'redirect_url' => 'https://portal.umeskiasoftwares.com/login',
-  'app_name' => 'UMESKIA-SOFTWARES-PORTAL'
+  'client_id' => '',
+  'client_secret' => '',
+  'redirect_url' => '',
+  'app_name' => ''
 );
 
 $client_id =  $configs['client_id'];
